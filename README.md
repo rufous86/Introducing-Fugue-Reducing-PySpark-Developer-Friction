@@ -96,4 +96,4 @@ df.show()
 
 Обратите внимание, что нам нужно вызвать `.show()`, поскольку Spark выполняет расчет “лениво”. Вывод показан ниже.
 
-![spark_show1.png](asserts/spark_show1.png)
+![spark_show1.png](assets/spark_show1.png)
