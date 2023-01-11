@@ -375,3 +375,6 @@ df.result.show()
 
 ![partition_sample.png](assets/partition_sample.png)
 
+## Fugue vs Koalas vs Modin
+
+![koalas_modin_fugue.png](assets/koalas_modin_fugue.png)
