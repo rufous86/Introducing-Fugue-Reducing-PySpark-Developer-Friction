@@ -1,6 +1,6 @@
 # Знакомство с Fugue - уменьшаем шероховатости при работе с PySpark
 
-Автор
+Автор оригинальной
 статьи: [Kevin Kho](https://towardsdatascience.com/introducing-fugue-reducing-pyspark-developer-friction-a702230455de)
 
 *Повышение производительности разработчиков и снижение затрат на проекты Big Data*
